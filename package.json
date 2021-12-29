@@ -1,0 +1,23 @@
+{
+  "name": "learn-electron",
+  "version": "1.0.0",
+  "description": "学习 electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haixiangyan/learn-electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haixiangyan/learn-electron/issues"
+  },
+  "homepage": "https://github.com/haixiangyan/learn-electron#readme",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
